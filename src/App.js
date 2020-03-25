@@ -24,7 +24,9 @@ function App() {
           <AboutMe />
         </section>
         {/* Education */}
-        <section className="education flex-container"></section>
+        <section className="education flex-container">
+          <h1>testing</h1>
+        </section>
         {/* Experiences */}
         <section className="experiences flex-container"></section>
         {/* Project Work */}

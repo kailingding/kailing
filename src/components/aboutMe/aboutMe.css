@@ -1,7 +1,9 @@
 .about-me {
   display: flex;
   align-items: center;
-  margin: 0 0 2em 0;
+  width: 76em;
+  max-width: calc(100% - 4em);
+  margin: 3em auto;
 }
 
 .self-image {
@@ -59,7 +61,7 @@
 }
 
 .resume-btn {
-  border: 1px solid #fff;
+  border: 0px solid #fff;
   border-radius: 5px;
   color: #72c5f8;
   display: inline-block;
@@ -68,11 +70,16 @@
   font-weight: 700;
   margin-top: 2em;
   overflow: hidden;
-  padding: 12px 42px;
+  padding: 14px 42px;
   position: relative;
   text-transform: uppercase;
   z-index: 9;
-  background: #f3f3f3;
+  background: white;
+}
+
+.resume-btn:hover {
+  color: white;
+  background-color: #72c5f8;
 }
 
 @media (max-width: 1120px) and (min-width: 700px) {

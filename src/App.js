@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import AboutMe from "./components/aboutMe/aboutMe";
+import Title from "./components/sectionTitle/title";
 
 function App() {
   return (
@@ -13,26 +14,37 @@ function App() {
           <h3>HELLO!</h3>
           <h2>I'M KAILING DING</h2>
           <span>
-            Entrepuership, Data Science, Machine Learning, Extreme Sports
+            who build data product with love Entrepuership, Data Science,
+            Machine Learning, Extreme Sports
           </span>
         </div>
       </header>
-
-      <div className="main">
-        {/* About me */}
-        <section className="about-me flex-container">
+      {/* About me */}
+      <div className="about">
+        <section className="flex-container">
           <AboutMe />
         </section>
+      </div>
+      <div className="main">
         {/* Education */}
         <section className="education flex-container">
-          <h1>testing</h1>
+          <Title title="EDUCATION" />
         </section>
+
         {/* Experiences */}
-        <section className="experiences flex-container"></section>
+        <section className="experiences flex-container">
+          <Title title="EXPERIENCES" />
+        </section>
+
         {/* Project Work */}
-        <section className="project flex-container"></section>
+        <section className="project flex-container">
+          <Title title="PROJECT WORK" />
+        </section>
+
         {/* Extreme Sports */}
-        <section className="extreme-sports flex-container"></section>
+        <section className="extreme-sports flex-container">
+          <Title title="EXTREME SPORTS" />
+        </section>
       </div>
 
       <footer></footer>

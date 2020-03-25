@@ -72,6 +72,11 @@ a {
   width: 50%;
 }
 
+.about {
+  background-color: #f3f3f3;
+  color: #636363;
+}
+
 .main {
   display: block;
   width: 76em;

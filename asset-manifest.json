@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.17b16078.chunk.css",
-    "main.js": "/static/js/main.b8ed17ae.chunk.js",
-    "main.js.map": "/static/js/main.b8ed17ae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
-    "static/js/2.caad343e.chunk.js": "/static/js/2.caad343e.chunk.js",
-    "static/js/2.caad343e.chunk.js.map": "/static/js/2.caad343e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3c2eb9cdedc11c8e559fdc1f523903d1.js": "/precache-manifest.3c2eb9cdedc11c8e559fdc1f523903d1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.17b16078.chunk.css.map": "/static/css/main.17b16078.chunk.css.map",
-    "static/js/2.caad343e.chunk.js.LICENSE.txt": "/static/js/2.caad343e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/snowboard.785893bd.jpg",
-    "static/media/me.jpg": "/static/media/me.4e46b9ed.jpg",
-    "static/media/resume.pdf": "/static/media/resume.1ff81849.pdf"
+    "main.css": "/kailing/docs/static/css/main.6b7875ad.chunk.css",
+    "main.js": "/kailing/docs/static/js/main.c5510c1b.chunk.js",
+    "main.js.map": "/kailing/docs/static/js/main.c5510c1b.chunk.js.map",
+    "runtime-main.js": "/kailing/docs/static/js/runtime-main.e2c3a2aa.js",
+    "runtime-main.js.map": "/kailing/docs/static/js/runtime-main.e2c3a2aa.js.map",
+    "static/js/2.caad343e.chunk.js": "/kailing/docs/static/js/2.caad343e.chunk.js",
+    "static/js/2.caad343e.chunk.js.map": "/kailing/docs/static/js/2.caad343e.chunk.js.map",
+    "index.html": "/kailing/docs/index.html",
+    "precache-manifest.317f1e9f6ccfeccb51331783d3fe0e32.js": "/kailing/docs/precache-manifest.317f1e9f6ccfeccb51331783d3fe0e32.js",
+    "service-worker.js": "/kailing/docs/service-worker.js",
+    "static/css/main.6b7875ad.chunk.css.map": "/kailing/docs/static/css/main.6b7875ad.chunk.css.map",
+    "static/js/2.caad343e.chunk.js.LICENSE.txt": "/kailing/docs/static/js/2.caad343e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kailing/docs/static/media/snowboard.785893bd.jpg",
+    "static/media/me.jpg": "/kailing/docs/static/media/me.4e46b9ed.jpg",
+    "static/media/resume.pdf": "/kailing/docs/static/media/resume.1ff81849.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceaf4b5f.js",
+    "static/js/runtime-main.e2c3a2aa.js",
     "static/js/2.caad343e.chunk.js",
-    "static/css/main.17b16078.chunk.css",
-    "static/js/main.b8ed17ae.chunk.js"
+    "static/css/main.6b7875ad.chunk.css",
+    "static/js/main.c5510c1b.chunk.js"
   ]
 }

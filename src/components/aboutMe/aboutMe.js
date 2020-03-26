@@ -22,9 +22,8 @@ export default class AboutMe extends Component {
           </header>
           <p>
             <b>
-              I‘m eager for building technology product with love and high
-              social and economic impact in data science and machine learning
-              field.
+              I‘m eager for building technology product with high social and
+              economic impact in data science and machine learning field.
             </b>
           </p>
           <div className="skillsets">

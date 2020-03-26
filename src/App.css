@@ -21,6 +21,13 @@ a {
   color: white;
 }
 
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
 .flex-container {
   display: flex;
 }
@@ -66,10 +73,43 @@ a {
 
 .home .wrapper-content {
   position: absolute;
-  top: 25%;
+  top: 18%;
   left: 10%;
   font-size: 40px;
   width: 50%;
+}
+
+.home .wrapper-content .hashtags {
+  width: 50%;
+}
+
+.home .wrapper-content ul {
+  display: inline-block;
+  width: 50%;
+}
+
+.home .wrapper-content li {
+  display: inline;
+  font-size: 16px;
+}
+
+.label-pill {
+  font-size: 14px;
+  color: #fff;
+  background: #00b27f center no-repeat;
+  font-weight: 600;
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 5px 7px 5px 7px;
+  margin: -5px 0 0 7px;
+}
+
+.label-lightblue {
+  background: #8cc9f0;
+}
+
+.label-lightpink {
+  background: #efa8b0;
 }
 
 .about {

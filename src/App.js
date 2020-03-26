@@ -7,16 +7,19 @@ function App() {
   return (
     <div className="App">
       <header className="home">
-        <h2 className="home-buttom">
-          <a href="#home">𝕂𝔸𝕀𝕃𝕀ℕ𝔾 𝔻𝕀ℕ𝔾</a>
-        </h2>
         <div className="wrapper-content">
           <h3>HELLO!</h3>
           <h2>I'M KAILING DING</h2>
-          <span>
-            who build data product with love Entrepuership, Data Science,
-            Machine Learning, Extreme Sports
-          </span>
+          <span>who build data product with love</span>
+          <div></div>
+          <div className="hashtags">
+            <ul>
+              <li className="label-pill label-lightblue">#Entrepuership</li>
+              <li className="label-pill">#DataScience</li>
+              <li className="label-pill">#MachineLearning</li>
+              <li className="label-pill label-lightpink">#ExtremeSports</li>
+            </ul>
+          </div>
         </div>
       </header>
       {/* About me */}

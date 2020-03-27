@@ -4,6 +4,7 @@ import AboutMe from "./components/aboutMe/aboutMe.js";
 import Title from "./components/sectionTitle/title.js";
 import Education from "./components/infoCard/education.js";
 import Experiences from "./components/infoCard/experiences.js";
+import Adventures from "./components/adventures/adventures.js";
 
 function App() {
   const github = require("./images/socialMedia/github.png");
@@ -23,7 +24,7 @@ function App() {
               <li className="label-pill label-lightblue">#Entrepuership</li>
               <li className="label-pill">#DataScience</li>
               <li className="label-pill">#MachineLearning</li>
-              <li className="label-pill label-lightpink">#ExtremeSports</li>
+              <li className="label-pill label-lightpink">#Adventures</li>
             </ul>
           </div>
           <div className="social-media-link">
@@ -66,12 +67,13 @@ function App() {
 
         {/* Project Work */}
         <section className="project flex-container">
-          <Title title="PROJECT WORK" />
+          <Title title="PROJECT WORK" name="project" />
         </section>
 
         {/* Extreme Sports */}
         <section className="extreme-sports flex-container">
-          <Title title="EXTREME SPORTS" />
+          <Title title="Advantures" />
+          <Adventures />
         </section>
       </div>
 

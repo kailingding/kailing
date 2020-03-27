@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96cde4ff0d8ed0c56f86e83eb6322dc4",
+    "revision": "c0ec6657980e001c1e6a760b7f3e5352",
     "url": "/index.html"
   },
   {
-    "revision": "7a1191c3ab906fd9a41a",
-    "url": "/static/css/main.9464bd38.chunk.css"
+    "revision": "3d9094c6c6e59803edab",
+    "url": "/static/css/main.de423ac6.chunk.css"
   },
   {
     "revision": "ec37b9d9311edf823644",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c23cf7a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a1191c3ab906fd9a41a",
-    "url": "/static/js/main.d5403b13.chunk.js"
+    "revision": "3d9094c6c6e59803edab",
+    "url": "/static/js/main.0cd31437.chunk.js"
   },
   {
     "revision": "5284eec07972ace79c95",
@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gac.7c48131e.png"
   },
   {
+    "revision": "63007dd9a4e12360268864a615d7ba62",
+    "url": "/static/media/hiking_1.63007dd9.png"
+  },
+  {
     "revision": "ac3923a5c34d1a114e4b9b3a1633da1c",
     "url": "/static/media/hox.ac3923a5.png"
   },
@@ -44,8 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/resume.1ff81849.pdf"
   },
   {
+    "revision": "22d00d24809287d9429a3175d2ce049b",
+    "url": "/static/media/scuba_1.22d00d24.png"
+  },
+  {
     "revision": "785893bd94e5fb560e2ea0b664620e45",
     "url": "/static/media/snowboard.785893bd.jpg"
+  },
+  {
+    "revision": "c39d308e312096e14120a40c929dfcfe",
+    "url": "/static/media/snowboard_1.c39d308e.png"
   },
   {
     "revision": "9ea2990e80da11e7d612291b83ba1707",

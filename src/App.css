@@ -73,27 +73,28 @@ li {
 
 .home .wrapper-content {
   position: absolute;
-  top: 18%;
+  top: 10%;
   left: 10%;
   font-size: 40px;
   width: 50%;
 }
 
 .home .wrapper-content .hashtags {
-  width: 50%;
+  width: 100%;
+  height: auto;
 }
 
 .home .wrapper-content ul {
   display: inline-block;
-  width: 50%;
 }
 
 .home .wrapper-content li {
-  display: inline;
+  display: inline-block;
   font-size: 16px;
 }
 
 .label-pill {
+  display: block;
   font-size: 14px;
   color: #fff;
   background: #00b27f center no-repeat;
@@ -112,6 +113,28 @@ li {
   background: #efa8b0;
 }
 
+.social-media-link {
+  margin-top: 2em;
+}
+
+.social-media-link ul li {
+  margin: 0 1em;
+}
+
+.social-media-link img {
+  width: 50px;
+  color: #636363;
+}
+
+.grayscale {
+  filter: invert(100%);
+  -webkit-filter: invert(80%);
+}
+.grayscale:hover {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
+
 .about {
   background-color: #f3f3f3;
   color: #636363;
@@ -119,7 +142,7 @@ li {
 
 .main {
   display: block;
-  width: 76em;
+  width: 72em;
   max-width: calc(100% - 4em);
   margin: 0 auto;
   color: #636363;
@@ -127,5 +150,5 @@ li {
 
 .main section {
   display: block;
-  padding: 3em 0;
+  padding: 1em 0;
 }

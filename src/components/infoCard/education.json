@@ -1,0 +1,9 @@
+{
+  "ucsd": {
+    "logo": "ucsd",
+    "link": "https://datascience.ucsd.edu/",
+    "title": "Univeristy of California, San Diego",
+    "subtitle": "Undergraduate",
+    "details": ["Sep 2018 - June 2021", "Major: Data Science"]
+  }
+}

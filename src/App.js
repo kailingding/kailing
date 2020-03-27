@@ -1,9 +1,15 @@
 import React from "react";
 import "./App.css";
-import AboutMe from "./components/aboutMe/aboutMe";
-import Title from "./components/sectionTitle/title";
+import AboutMe from "./components/aboutMe/aboutMe.js";
+import Title from "./components/sectionTitle/title.js";
+import Education from "./components/infoCard/education.js";
+import Experiences from "./components/infoCard/experiences.js";
 
 function App() {
+  const github = require("./images/socialMedia/github.png");
+  const linkedin = require("./images/socialMedia/linkedin.png");
+  const wechat = require("./images/socialMedia/wechat.png");
+
   return (
     <div className="App">
       <header className="home">
@@ -20,6 +26,23 @@ function App() {
               <li className="label-pill label-lightpink">#ExtremeSports</li>
             </ul>
           </div>
+          <div className="social-media-link">
+            <ul>
+              <li>
+                <a href="https://www.linkedin.com/in/kailingding" target="_">
+                  <img src={linkedin} alt="linkedin" className="grayscale" />
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/kailingding" target="_">
+                  <img src={github} alt="github" className="grayscale"></img>
+                </a>
+              </li>
+              <li>
+                <img src={wechat} alt="linkedin" className="grayscale" />
+              </li>
+            </ul>
+          </div>
         </div>
       </header>
       {/* About me */}
@@ -32,11 +55,13 @@ function App() {
         {/* Education */}
         <section className="education flex-container">
           <Title title="EDUCATION" />
+          <Education />
         </section>
 
         {/* Experiences */}
         <section className="experiences flex-container">
           <Title title="EXPERIENCES" />
+          <Experiences />
         </section>
 
         {/* Project Work */}

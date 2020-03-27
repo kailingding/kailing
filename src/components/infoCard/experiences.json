@@ -1,0 +1,23 @@
+{
+  "triple_c": {
+    "logo": "triple_c",
+    "link": "https://ucsdtriplec.org/",
+    "title": "UCSD Triple C",
+    "subtitle": "Chinese Computer Community, San Diego, CA",
+    "details": ["Scrum Team Tech Lead", "Sep 2019 - Present", "Intellibear"]
+  },
+  "gac": {
+    "logo": "gac",
+    "link": "http://www.gac-motor.com/Home/About/agency.html",
+    "title": "GAC Motor",
+    "subtitle": "GAC Research & Development Center, Sunnyvale, CA",
+    "details": ["Data Science Intern", "June 2019 - Sep 2019"]
+  },
+  "hox": {
+    "logo": "hox",
+    "link": "https://www.calhox.com/",
+    "title": "HΩX",
+    "subtitle": "Eta Omega Chi, Professional Fraternity, UCSD",
+    "details": ["VP of Technology", "Dec 2018 - Present"]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "intellibear": {
+    "name": "intellibear",
+    "projectType": ["ds/ml", "web"],
+    "links": { "indev": "In Development" },
+    "title": "IntelliBear",
+    "teamType": "Team",
+    "description": "Testing description",
+    "skillsets": "Time Series Forecasting, LSTM, ReactJs, MongoDB, Data Viz"
+  },
+  "datahacks2020": {
+    "name": "datahacks2020",
+    "projectType": ["ds/ml"],
+    "links": {
+      "paper": "https://www.dropbox.com/s/hve0gm0rwytk6kt/Technical%20Report%20datahack%202020.pdf?dl=0",
+      "code": "https://github.com/kailingding/datahacks2020"
+    },
+    "title": "2nd Place in DataHacks 2020",
+    "teamType": "Team",
+    "description": "Testing description",
+    "skillsets": "feature testing"
+  },
+  "tiktok-data-viz": {
+    "name": "tiktok-data-viz",
+    "projectType": ["dataviz", "web"],
+    "links": {
+      "web": "https://kailingding.github.io/data-viz-tiktok/",
+      "code": "https://github.com/kailingding/data-viz-tiktok"
+    },
+    "title": "Visualize Historical TikTok's Data",
+    "teamType": "Team",
+    "description": "Testing description",
+    "skillsets": "Data Viz, Highcharts, Responsive Design, Embeded Video, HTML, CSS"
+  },
+  "masterofclass": {
+    "name": "masterofclass",
+    "projectType": ["web"],
+    "links": { "code": "https://github.com/kailingding" },
+    "title": "MasterOfClass",
+    "teamType": "Personal",
+    "description": "Testing description",
+    "skillsets": "Data Viz, Highcharts, Responsive Design, Embeded Video, HTML, CSS"
+  },
+  "portfolio": {
+    "name": "portfolio",
+    "projectType": ["web"],
+    "links": {
+      "web": "https://markding.me/",
+      "code": "https://github.com/kailingding/kailing"
+    },
+    "title": "Personal Website",
+    "teamType": "Personal",
+    "description": "Testing description",
+    "skillsets": "ReactJs, Flexbox"
+  }
+}

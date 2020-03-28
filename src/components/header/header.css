@@ -1,0 +1,102 @@
+.home::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  top: 0;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  opacity: 0.8;
+}
+
+.home {
+  background-image: url(../../images/snowboard.jpg);
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home > * {
+  z-index: 10;
+  position: relative;
+  color: white;
+}
+
+.home .home-buttom {
+  position: absolute;
+  display: inline-block;
+  margin: 0;
+  left: 10%;
+  top: 10%;
+  color: white;
+}
+
+.home .wrapper-content {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  font-size: 40px;
+  width: 50%;
+}
+
+.home .wrapper-content .hashtags {
+  width: 100%;
+  height: auto;
+}
+
+.home .wrapper-content ul {
+  display: inline-block;
+}
+
+.home .wrapper-content li {
+  display: inline-block;
+  font-size: 16px;
+}
+
+.label-pill {
+  display: block;
+  font-size: 14px;
+  color: #fff;
+  background: #00b27f center no-repeat;
+  font-weight: 600;
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 5px 7px 5px 7px;
+  margin: -5px 0 0 7px;
+}
+
+.label-lightblue {
+  background: #8cc9f0;
+}
+
+.label-lightpink {
+  background: #efa8b0;
+}
+
+.social-media-link {
+  margin-top: 2em;
+}
+
+.social-media-link ul li {
+  margin: 0 1em;
+}
+
+.social-media-link img {
+  width: 50px;
+  color: #636363;
+}
+
+.grayscale {
+  filter: invert(100%);
+  -webkit-filter: invert(80%);
+}
+.grayscale:hover {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}

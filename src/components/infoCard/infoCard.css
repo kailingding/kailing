@@ -5,6 +5,7 @@
   padding: 1em 1em;
   flex: 0 1 calc(50% - 3em);
   margin-bottom: 2em;
+  border-radius: 1em;
 }
 
 .card:hover {

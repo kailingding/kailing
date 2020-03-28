@@ -15,9 +15,9 @@ export default class Title extends Component {
           <div className="menu-container">
             <ul>
               <li id="all">All</li>
-              <li id="ml">Machine Learning</li>
-              <li id="ds">Data Science</li>
+              <li id="ds/ml">DS / ML</li>
               <li id="web">Website</li>
+              <li id="dataviz">Data Viz</li>
             </ul>
           </div>
         </div>

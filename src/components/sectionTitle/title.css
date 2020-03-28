@@ -3,7 +3,8 @@
 }
 
 .title h1::after {
-  background-image: linear-gradient(90deg, #8cc9f0, #efa8b0);
+  /*background-image: linear-gradient(90deg, #8cc9f0, #efa8b0);*/
+  background-color: #8cc9f0;
   display: block;
   content: "";
   width: 4em;
@@ -27,7 +28,8 @@
 }
 
 .big-title h1::after {
-  background-image: linear-gradient(90deg, #8cc9f0, #efa8b0);
+  /*background-image: linear-gradient(90deg, #8cc9f0, #efa8b0);*/
+  background-color: #8cc9f0;
   display: block;
   content: "";
   width: 5em;

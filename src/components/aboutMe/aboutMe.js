@@ -32,8 +32,8 @@ export default class AboutMe extends Component {
                 Programming Language: &nbsp;Python, Java, JavaScript, HTML, CSS
               </li>
               <li>
-                DS / ML: &nbsp;Supervised Learning, Time-series Modeling, Data
-                Viz, Nerual Network
+                DS / ML: &nbsp;Supervised Learning, Time-series Modeling,
+                Optimization, Data Viz, Nerual Network
               </li>
               <li>
                 Web: &nbsp;Git, ReactJS, NodeJs, SQL, AWS EC2/Route 53, MongoDB,

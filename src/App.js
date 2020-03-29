@@ -7,6 +7,7 @@ import Education from "./components/infoCard/education.js";
 import Experiences from "./components/infoCard/experiences.js";
 import Project from "./components/projects/project.js";
 import Adventures from "./components/adventures/adventures.js";
+import Footer from "./components/footer/footer.js";
 
 function App() {
   return (
@@ -45,7 +46,9 @@ function App() {
         </section>
       </div>
 
-      <footer></footer>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }

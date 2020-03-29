@@ -5,8 +5,8 @@
     "links": { "indev": "In Development" },
     "title": "IntelliBear",
     "teamType": "Team",
-    "description": "Testing description",
-    "skillsets": "Time Series Forecasting, LSTM, ReactJs, MongoDB, Data Viz"
+    "description": "A data solution to predict point of sales and reduce unproduced waste",
+    "skillsets": "Time Series Forecasting, Interactive Data Viz, ReactJs, ExpressJs, AWS, NodeJs"
   },
   "datahacks2020": {
     "name": "datahacks2020",
@@ -17,20 +17,20 @@
     },
     "title": "2nd Place in DataHacks 2020",
     "teamType": "Team",
-    "description": "Testing description",
-    "skillsets": "feature testing"
+    "description": "Provided a business insight for Uber on enhancing user experiences by forecasting average travel time in San Francisco area",
+    "skillsets": "Data Analysis, Time-Series Modeling, Feature Engineering, Cross-validation, Data Cleaning"
   },
   "tiktok-data-viz": {
     "name": "tiktok-data-viz",
-    "projectType": ["dataviz", "web"],
+    "projectType": ["ds/ml", "web"],
     "links": {
       "web": "https://kailingding.github.io/data-viz-tiktok/",
       "code": "https://github.com/kailingding/data-viz-tiktok"
     },
     "title": "Visualize TikTok's Data",
     "teamType": "Team",
-    "description": "Testing description",
-    "skillsets": "Data Viz, Highcharts, Responsive Design, Embeded Video, HTML, CSS"
+    "description": "A data visualization that elaborates the history of TikTok and its growth statistics",
+    "skillsets": "Interactive Data Viz, Highcharts, Responsive Design, Embeded Video, HTML, CSS"
   },
   "masterofclass": {
     "name": "masterofclass",
@@ -38,8 +38,8 @@
     "links": { "code": "https://github.com/kailingding" },
     "title": "MasterOfClass",
     "teamType": "Personal",
-    "description": "Testing description",
-    "skillsets": "Data Viz, Highcharts, Responsive Design, Embeded Video, HTML, CSS"
+    "description": "A web app with authentication that provides college courses group's QR code only for UCSD students",
+    "skillsets": "ReactJs, MongoDB, JWT Auth, ExpressJs, AWS EC2, NodeJs"
   },
   "portfolio": {
     "name": "portfolio",
@@ -50,7 +50,7 @@
     },
     "title": "Personal Website",
     "teamType": "Personal",
-    "description": "Testing description",
-    "skillsets": "ReactJs, Flexbox"
+    "description": "Personal Portfolio Website ",
+    "skillsets": "ReactJs, Flexbox, HTML, CSS, Responsive Design"
   }
 }

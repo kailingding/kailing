@@ -23,6 +23,24 @@ export default class Adventures extends Component {
             alt="scuba_1"
           />
         </div>
+        <div className="photo-card">
+          <img
+            src={require("../../images/extremeSports/hiking/hiking_2.png")}
+            alt="scuba_1"
+          />
+        </div>
+        <div className="photo-card">
+          <img
+            src={require("../../images/extremeSports/scuba/scuba_2.png")}
+            alt="scuba_1"
+          />
+        </div>
+        <div className="photo-card">
+          <img
+            src={require("../../images/extremeSports/hiking/hiking_5.png")}
+            alt="scuba_1"
+          />
+        </div>
       </div>
     );
   }

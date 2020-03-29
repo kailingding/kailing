@@ -17,7 +17,6 @@ export default class Title extends Component {
               <li id="all">All</li>
               <li id="ds/ml">DS / ML</li>
               <li id="web">Website</li>
-              <li id="dataviz">Data Viz</li>
             </ul>
           </div>
         </div>

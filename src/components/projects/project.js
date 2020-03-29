@@ -107,8 +107,8 @@ export default class Project extends Component {
                 }
               })()}
             </h3>
-            <p className="gray-text">{data["description"]}</p>
-            <p>Skill sets: {data["skillsets"]}</p>
+            <p>{data["description"]}</p>
+            <p className="gray-text">Skill sets: {data["skillsets"]}</p>
           </div>
         </div>
       );

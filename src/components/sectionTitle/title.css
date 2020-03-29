@@ -41,8 +41,8 @@
 .menu-container {
   vertical-align: middle;
   text-align: center;
-  margin: auto 0;
-  padding: 0 2em;
+  margin: auto 2em;
+  padding: 0 3em;
 }
 
 .menu-container ul {
@@ -71,6 +71,7 @@
 
   .menu-container {
     padding: 0em;
+    margin: auto 3em;
   }
 
   .menu-container ul li {

@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccb954dc.chunk.css",
-    "main.js": "/static/js/main.37b5e121.chunk.js",
-    "main.js.map": "/static/js/main.37b5e121.chunk.js.map",
+    "main.css": "/static/css/main.a31fded9.chunk.css",
+    "main.js": "/static/js/main.48f6422e.chunk.js",
+    "main.js.map": "/static/js/main.48f6422e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
     "static/js/2.c094081c.chunk.js": "/static/js/2.c094081c.chunk.js",
     "static/js/2.c094081c.chunk.js.map": "/static/js/2.c094081c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9eb0ec727a045d329ce78d5af7cc302f.js": "/precache-manifest.9eb0ec727a045d329ce78d5af7cc302f.js",
+    "precache-manifest.54efe5834ccb1ca9fbc09708f07ae8c7.js": "/precache-manifest.54efe5834ccb1ca9fbc09708f07ae8c7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ccb954dc.chunk.css.map": "/static/css/main.ccb954dc.chunk.css.map",
+    "static/css/main.a31fded9.chunk.css.map": "/static/css/main.a31fded9.chunk.css.map",
     "static/js/2.c094081c.chunk.js.LICENSE.txt": "/static/js/2.c094081c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/SourceSansPro-It.6c362e00.ttf",
     "static/media/datahacks2020.png": "/static/media/datahacks2020.0e0e12a1.png",
     "static/media/gac.png": "/static/media/gac.7c48131e.png",
     "static/media/hiking_1.png": "/static/media/hiking_1.63007dd9.png",
+    "static/media/hiking_2.png": "/static/media/hiking_2.ef3b8f1e.png",
+    "static/media/hiking_5.png": "/static/media/hiking_5.a0c995cb.png",
     "static/media/hox.png": "/static/media/hox.ac3923a5.png",
     "static/media/intellibear.png": "/static/media/intellibear.b1e3c0b9.png",
-    "static/media/masterofclass.png": "/static/media/masterofclass.0ff7436d.png",
+    "static/media/masterofclass.png": "/static/media/masterofclass.f3e977cd.png",
     "static/media/me.jpg": "/static/media/me.4e46b9ed.jpg",
     "static/media/portfolio.png": "/static/media/portfolio.827afa3b.png",
     "static/media/resume.pdf": "/static/media/resume.1ff81849.pdf",
     "static/media/scuba_1.png": "/static/media/scuba_1.22d00d24.png",
+    "static/media/scuba_2.png": "/static/media/scuba_2.5588643e.png",
     "static/media/header.css": "/static/media/snowboard.785893bd.jpg",
     "static/media/snowboard_1.png": "/static/media/snowboard_1.c39d308e.png",
     "static/media/tiktok-data-viz.png": "/static/media/tiktok-data-viz.90bafca3.png",
@@ -35,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.ceaf4b5f.js",
     "static/js/2.c094081c.chunk.js",
-    "static/css/main.ccb954dc.chunk.css",
-    "static/js/main.37b5e121.chunk.js"
+    "static/css/main.a31fded9.chunk.css",
+    "static/js/main.48f6422e.chunk.js"
   ]
 }

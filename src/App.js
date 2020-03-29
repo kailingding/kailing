@@ -40,7 +40,7 @@ function App() {
 
         {/* Extreme Sports */}
         <section className="extreme-sports flex-container">
-          <Title title="Adventures" />
+          <Title title="ADVENTURES" />
           <Adventures />
         </section>
       </div>

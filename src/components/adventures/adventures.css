@@ -18,22 +18,22 @@
 
 @media screen and (max-width: 1120px) {
   .photo-card {
-    flex: 0 1 calc(100%);
+    flex: 0 1 calc(50%);
     margin-bottom: 2em;
   }
 
   .photo-card img {
-    width: 60vh;
+    width: 90%;
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 650px) {
   .photo-card {
     flex: 0 1 calc(100%);
     margin-block-end: 2em;
   }
 
   .photo-card img {
-    width: 50vh;
+    width: 90%;
   }
 }

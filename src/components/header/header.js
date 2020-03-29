@@ -45,8 +45,26 @@ export default class Header extends Component {
                 <li>
                   <img
                     src={this.getIcon("wechat")}
-                    alt="linkedin"
+                    alt="wechat"
                     className="grayscale"
+                    style={{ cursor: "pointer" }}
+                    onMouseOver={e =>
+                      document
+                        .getElementById("qrcode")
+                        .classList.add("displayed")
+                    }
+                    onMouseOut={e =>
+                      document
+                        .getElementById("qrcode")
+                        .classList.remove("displayed")
+                    }
+                  />
+                </li>
+                <li id="qrcode">
+                  <img
+                    src={this.getIcon("wechatQR")}
+                    alt="wechat qrcode"
+                    style={{ width: "100px" }}
                   />
                 </li>
               </ul>

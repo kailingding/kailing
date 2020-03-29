@@ -83,13 +83,54 @@
   background-color: #72c5f8;
 }
 
-@media (max-width: 1120px) and (min-width: 700px) {
+@media (max-width: 1050px) {
+  .self-image {
+    width: 100%;
+  }
+  .content h1 {
+    font-size: 30px;
+  }
+  .resume-btn {
+    margin-top: 1em;
+    padding: 14px 40px;
+  }
+}
+
+@media (max-width: 900px) {
   .about-me {
     display: block;
+    width: 70%;
   }
 
   .self-image {
+    display: block;
     text-align: center;
     margin: 0 auto;
+    width: 100%;
+  }
+
+  .content p {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 650px) {
+  .about-me {
+    display: block;
+    width: 80%;
+  }
+
+  .content h1 {
+    font-size: 26px;
+  }
+
+  .content p {
+    font-size: 20px;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+  }
+
+  .skillsets ul {
+    font-size: 16px;
   }
 }

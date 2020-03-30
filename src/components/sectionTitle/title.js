@@ -12,11 +12,17 @@ export default class Title extends Component {
               <h1>{this.props.title}</h1>
             </header>
           </div>
-          <div className="menu-container">
-            <ul>
-              <li id="all">All</li>
-              <li id="ds/ml">DS / ML</li>
-              <li id="web">Website</li>
+          <div className="menu-container" hidden>
+            <ul id="project-menu">
+              <li id="all" onClick={this.handleClick}>
+                All
+              </li>
+              <li id="ds/ml" onClick={this.handleClick}>
+                DS / ML
+              </li>
+              <li id="web" onClick={this.handleClick}>
+                Website
+              </li>
             </ul>
           </div>
         </div>

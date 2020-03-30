@@ -35,7 +35,7 @@
   "masterofclass": {
     "name": "masterofclass",
     "projectType": ["web"],
-    "links": { "code": "https://github.com/kailingding" },
+    "links": { "code": "https://github.com/kailingding/masterofclass" },
     "title": "MasterOfClass",
     "teamType": "Personal",
     "description": "A web app with authentication that provides college courses group's QR code only for UCSD students",

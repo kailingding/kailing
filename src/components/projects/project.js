@@ -12,6 +12,11 @@ export default class Project extends Component {
     return require("../../images/techIcon/" + iconName + ".png");
   }
 
+  componentDidMount() {
+    const allProject = document.getElementById("all");
+    allProject.classList.add("projectType-active");
+  }
+
   // linkOverlay function creates the hover effect when hovering on the project image
   linkOverlay(name, links) {
     const overlay = [];
@@ -79,8 +84,11 @@ export default class Project extends Component {
   // generate project card
   generateCard(projectData) {
     const cards = [];
+
     for (var project in projectData) {
       let data = projectData[project];
+      let projectType = data["projectType"];
+
       cards.push(
         <div key={project} className="project-card">
           <figure className="image">

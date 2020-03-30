@@ -126,6 +126,10 @@
   color: gray;
 }
 
+.projectType-active {
+  color: #4ebafd;
+}
+
 @media (max-width: 920px) {
   .card-content h3 span {
     display: none;

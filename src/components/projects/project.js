@@ -87,7 +87,6 @@ export default class Project extends Component {
 
     for (var project in projectData) {
       let data = projectData[project];
-      let projectType = data["projectType"];
 
       cards.push(
         <div key={project} className="project-card">
